@@ -1,27 +1,41 @@
-# KrypComputers
+<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/5fafd1c5-1b9c-4a97-9e98-e4dfcf27cfc2" /><img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/3c2150ef-344f-43aa-91de-769ff18bd770" /># ⚡ Kryp Computers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+Bem-vindo ao repositório do **Kryp Computers** — uma loja fictícia de tecnologia onde o design encontra a performance.
 
-## Development server
+🧠 **Este projeto foi desenvolvido como parte do Programa START by Capgemini**, com o objetivo de aplicar na prática os conhecimentos adquiridos em **Angular** e desenvolvimento web moderno.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> 💻 Acesse agora: [https://hugoaugusto223.github.io/kryp-computers/produtos](https://hugoaugusto223.github.io/kryp-computers/produtos)
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🧩 Sobre o Projeto
 
-## Build
+O site simula uma vitrine de produtos de informática com layout responsivo e navegação fluida.  
+Este projeto foi uma oportunidade de praticar conceitos como:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Componentização no Angular
+- Consumo de serviços com injeção de dependência
+- Formulários reativos com validação
+- Gerenciamento simples de estado (carrinho de compras)
+- Deploy com GitHub Pages
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Tecnologias Utilizadas
 
-## Running end-to-end tests
+- Angular
+- TypeScript
+- HTML5 + CSS3
+- Git e GitHub
+- GitHub Pages
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 📦 Funcionalidades
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- 📋 Listagem de produtos com imagem, descrição e preço
+- 🛒 Carrinho de compras funcional
+- 📬 Formulário de contato com validação
+- ☁️ Deploy estático gratuito via GitHub Pages
+
+
