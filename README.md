@@ -1,4 +1,4 @@
-<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/5fafd1c5-1b9c-4a97-9e98-e4dfcf27cfc2" /><img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/3c2150ef-344f-43aa-91de-769ff18bd770" /># ⚡ Kryp Computers
+# ⚡ Kryp Computers
 
 Bem-vindo ao repositório do **Kryp Computers** — uma loja fictícia de tecnologia onde o design encontra a performance.
 
