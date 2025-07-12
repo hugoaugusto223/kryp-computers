@@ -1,0 +1,29 @@
+.search-form {
+display: flex;
+justify-content: flex-end;
+align-items: center;    
+}
+
+.search-form input {
+  padding: 8px 15px;
+  font-size: 16px;         
+  width: 395px;            
+  border-radius: 5px;      
+}
+
+.search-form button {
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #6200ea; /* corzinha roxa maneira */
+  color: white;
+  border: none;
+  border-radius: 10px;
+  border: solid 1px black;
+  transition: background 0.2s;
+  margin-left: 3px;
+}
+
+.search-form button:hover {
+    background-color: #8e44ad;
+}

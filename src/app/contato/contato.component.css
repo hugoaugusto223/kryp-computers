@@ -1,0 +1,123 @@
+.contact-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.contact__title {
+  font-size: 44px;
+  color: #444;
+  font-weight: 700;
+  padding: 8px 0;
+  text-align: center;
+}
+
+.contact__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.contact-form {
+  flex: 1 1 350px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+  max-width: 600px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 16px;
+  height: 50px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.contact-form textarea {
+  height: 150px;
+  resize: none;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #6c3483;
+  outline: none;
+}
+
+/* Validação visual */
+input.valid,
+textarea.valid {
+  border-color: #28a745; /* verde */
+  box-shadow: 0 0 4px #28a745;
+}
+
+input.invalid,
+textarea.invalid {
+  border-color: #dc3545; /* vermelho */
+  box-shadow: 0 0 4px #dc3545;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 14px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}
+
+.contact-form button {
+  align-self: flex-end;
+  background-color: #6c3483;
+  border: none;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  width: 200px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: filter 0.3s ease;
+}
+
+.contact-form button:hover {
+  filter: brightness(1.1);
+}
+
+.contact-form button:disabled {
+  background-color: #999;
+  cursor: default;
+}
+
+.contact-form button:disabled:hover {
+  filter: none;
+}
+
+address {
+  flex: 1 1 300px;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-style: normal;
+  color: #555;
+}
+
+address iframe {
+  width: 100%;
+  max-width: 600px;
+  height: 450px;
+  border: 0;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+address p {
+  text-align: center;
+  font-size: 16px;
+}
