@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Kryp Computers** — uma loja fictícia de tecnol
 
 🧠 **Este projeto foi desenvolvido como parte do Programa START by Capgemini**, com o objetivo de aplicar na prática os conhecimentos adquiridos em **Angular** e desenvolvimento web moderno.
 
-> 💻 Acesse agora: [https://hugoaugusto223.github.io/kryp-computers/produtos](https://hugoaugusto223.github.io/kryp-computers/produtos)
+> 💻 Acesse agora: [https://hugoaugusto223.github.io/kryp-computers/produtos](https://hugoaugusto223.github.io/kryp-computers/)
 
 ---
 
